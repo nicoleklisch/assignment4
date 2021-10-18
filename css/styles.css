@@ -1,5 +1,10 @@
+@font-face {
+    font-family: 'Broken Home' ;
+    src: url('../fonts/brokenhome.otf') format('truetype');
+}
+
 header {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Broken Home', cursive;
 }
 
 body { 
@@ -10,7 +15,11 @@ section {
     background-color: rgb(255, 255, 255);
 }
 
+h2 {
+    font-family: 'Bebas Neue', cursive;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font: grey;
 }
+
