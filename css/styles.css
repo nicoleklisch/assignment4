@@ -1,3 +1,7 @@
+header {
+    font-family: 'Bebas Neue', cursive;
+}
+
 body { 
     background-image: url('../images/background-image.jpeg');
 }
@@ -6,11 +10,7 @@ section {
     background-color: rgb(255, 255, 255);
 }
 
-p {
+body {
     font-family: Arial, Helvetica, sans-serif;
     font: grey;
-}
-
-head {
-    font-family: 'Bebas Neue', cursive;
 }
