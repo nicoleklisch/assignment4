@@ -2,7 +2,6 @@ body {
     background-image: url('../images/background-image.jpeg');
 }
 
-body {
-    font: bold;
+section {
+    background-color: rgb(255, 255, 255);
 }
-
