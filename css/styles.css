@@ -5,6 +5,8 @@
 
 header {
     font-family: 'Broken Home', cursive;
+    text-align: center;
+    letter-spacing: .3cm;
 }
 
 body { 
@@ -17,6 +19,8 @@ section {
 
 h2 {
     font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    text-decoration: underline;
 }
 
 body {
