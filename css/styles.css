@@ -2,4 +2,7 @@ body {
     background-image: url('../images/background-image.jpeg');
 }
 
+body {
+    font: bold;
+}
 
