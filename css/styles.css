@@ -8,6 +8,10 @@
     src: url('../fonts/brokenhome.otf') format('truetype');
 }
 
+h1,nav {
+    display: inline-block;
+}
+
 header {
     font-family: 'Broken Home', cursive;
     letter-spacing: .3cm;
@@ -17,11 +21,13 @@ header {
 
 header a {
     color: white;
+    text-decoration: none;
 }
 
 header li {
     display: inline-block;
-    margin: 0, 10px ;
+    margin: 0, 10px;
+
 }
 
 body { 
