@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 @font-face {
     font-family: 'Broken Home' ;
     src: url('../fonts/brokenhome.otf') format('truetype');
@@ -6,6 +11,17 @@
 header {
     font-family: 'Broken Home', cursive;
     letter-spacing: .3cm;
+    background: lightgray;
+    padding: 20px;
+}
+
+header a {
+    color: white;
+}
+
+header li {
+    display: inline-block;
+    margin: 0, 10px ;
 }
 
 body { 
