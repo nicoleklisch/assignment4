@@ -17,6 +17,9 @@ header {
     letter-spacing: .3cm;
     background: lightgray;
     padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
 }
 
 header a {
@@ -34,16 +37,24 @@ body {
     background-image: url('../images/background-image.jpeg');
 }
 
+main{
+    padding-top: 100px;
+    margin-top: 50px;
+
+}
+
 section {
     background-color: rgb(255, 255, 255);
     width: 50%;
+    padding-top: 100px;
 }
 
 h2 {
     font-family: 'Bebas Neue', cursive;
     text-align: center;
     text-decoration: underline;
-    margin-bottom: 10px;
+
+
 }
 
 h3 {
@@ -61,7 +72,8 @@ body {
     border: 3px solid black;
     border-radius: 10%;
     margin: 40px auto;
-    padding: 10px;
+    padding-top: 10px ;
+
 }
 
 .second {
