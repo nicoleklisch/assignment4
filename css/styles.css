@@ -85,6 +85,7 @@ body {
     padding: 10px;
     position: relative;
     background: white;
+    animation: beer 40s linear infinite;
 }
 
 
@@ -99,4 +100,13 @@ body {
     font-weight: bold;
 }
 
+@keyframes beer {
+    from {
+        left: -300px;
+    }
+    to {
+        left: 1000px;
+    }
+    
+}
 
