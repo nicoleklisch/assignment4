@@ -75,6 +75,11 @@ body {
     padding-top: 10px ;
 
 }
+
+.first:hover {
+    width: 300px;
+    transition: 2s;
+}
    
 
 .second {
@@ -85,7 +90,7 @@ body {
     padding: 10px;
     position: relative;
     background: white;
-    animation: beer 40s linear infinite;
+    animation: beer 40s linear;
 }
 
 
