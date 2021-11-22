@@ -82,4 +82,11 @@ body {
     border-radius: 10%;
     margin: 0 auto;
     padding: 10px;
+    position: relative;
+}
+.second-text {
+    border: none;
+    position: absolute;
+    bottom: 0;
+  
 }
