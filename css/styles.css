@@ -51,15 +51,17 @@ body {
 }
 
 .first {
+    max-width: 800px;
     border: 3px solid black;
     border-radius: 10%;
-    margin: 10px;
+    margin: 40px auto;
     padding: 10px;
 }
 
 .second {
+    max-width: 800px;
     border: 3px solid black;
     border-radius: 10%;
-    margin: 10px;
+    margin: 0 auto;
     padding: 10px;
 }
