@@ -90,3 +90,7 @@ body {
     bottom: 0;
   
 }
+
+.custom-test {
+    font-weight: bold;
+}
